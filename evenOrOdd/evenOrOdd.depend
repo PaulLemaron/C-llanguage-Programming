@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663149370 source:/home/l3maa/Desktop/C_programming/evenOrOdd/main.c
+	<stdio.h>
+	<stdlib.h>
+
